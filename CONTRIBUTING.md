@@ -16,6 +16,7 @@ You can add a record using any of the following three methods. We have a few met
 ## Type of Records
 
 - [Organization](#organization)
+- [Company](#company)
 - [User](#user)
 - [Project](#project)
 - [Incubator, School, Community](#incubator-school-community)
@@ -37,6 +38,27 @@ website: "https://foo.com/"                               # (optional)
 
 Any additional content, with Markdown format can go here.
 ```
+
+Note: delete the commented sections from the file before committing.
+
+## Company
+
+Create new record file with `./hugow new companies/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of the Github organization's account for `filename`. Then edit the newly created file with your information at:
+
+`content/companies/<filename>.md`
+
+```yml
+---
+name: "Foo Company"                                       # (required) alphanumeric with spaces
+github: "FooCompany"                                      # (required) github-account-without-spaces
+description: "Foo is a Montreal company that does OSS"    # (optional)
+website: "https://foo.com/"                               # (optional)
+---
+
+Any additional content, with Markdown format can go here.
+```
+
+Companies are commercial organizations based in Montréal (or with a strong Montréal engineering presence) that publish open source. If the company also has a GitHub organization, add it under both [Company](#company) and [Organization](#organization).
 
 Note: delete the commented sections from the file before committing.
 

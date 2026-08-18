@@ -11,6 +11,7 @@ Visit our [**Website**](https://opensourcecities.github.io/montreal/) or Join th
 - [Background](#background)
 - [Projects](#projects)
 - [GitHub Organizations (Companies or Projects)](#github-organizations-companies-or-projects)
+- [Companies](#companies)
 - [Users with Open Source projects](#users-with-open-source-projects)
 - [Incubators, Schools, and Communities](#incubators-schools-and-communities)
 - [Other lists](#other-lists)
@@ -38,6 +39,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [Compactr](https://github.com/compactr) - Schema-based serialization protocol.
 - [gnu-social](https://git.gnu.io/gnu/gnu-social) - The free software social networking platform. [Website](https://gnu.io/social/)
 - [HA-store](https://github.com/fed135/ha-store) - A data loader for your node projects.
+- [Jami](https://github.com/savoirfairelinux/jami-daemon) - Distributed, private communication platform developed in Montréal. Formerly Ring. [Website](https://jami.net/).
 - [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](https://www.jordanmechner.com/backstage/journals/).
 - [Kalm](https://github.com/kalm/kalm.js) - Node socket wrapper and optimizer. [Website](http://kalm.js.org/).
 - [macournoyer/neuralconvo](https://github.com/macournoyer/neuralconvo) - Neural conversational model in Torch.
@@ -48,13 +50,14 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable/) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](https://pivottable.js.org/).
 - [Parse](https://github.com/parse-community)
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
+- [Pressbooks](https://github.com/pressbooks/pressbooks) - Open source book publishing tool built on WordPress. [Website](https://pressbooks.org/).
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
 - [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs. [Website](https://tech.shutterstock.com/rickshaw/)
 - [stmcli](https://github.com/stmcli/stmcli) - The unofficial STM CLI client.
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [Tech Conferences - Canada](https://github.com/lanisys-solutions/tech-conferences-canada) - A community-curated list of tech conferences in Canada. [Website](https://techconf.ca/)
 - [Uno Platform](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported. [Website](https://platform.uno/)
-- [Vanilla Forums](https://vanillaforums.com/en/software/) - Cloud-based community forum software. (Not on GitHub).
+- [Vanilla Forums](https://github.com/vanilla) - Community forum software from Montréal. [Website](https://vanillaforums.com/).
 - [villedemontreal/workit](https://github.com/VilledeMontreal/workit) - Extensible worker for Node.js that works with both Zeebe and Camunda BPM platforms powered by TypeScript. [Website](https://villedemontreal.github.io/workit/)
 - [Wikitravel.org](https://wikitravel.org/en/Main_Page) - Since 2003: the original free, crowdsourced travel guide with 300,000 writer/travelers visiting every day.
 
@@ -62,22 +65,30 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website](https://bettermtl.github.io/).
 - [@busbud](https://github.com/busbud) [Website](https://www.busbud.com/).
+- [@caido](https://github.com/caido) - Web security auditing toolkit built in Montréal. [Website](https://caido.io).
 - [@ctf](https://github.com/ctf) - McGill Science Computer Taskforce. [Website](https://ctf.science.mcgill.ca/)
 - [@DeuxHuitHuit](https://github.com/DeuxHuitHuit) - Deux Huit Huit [Website](https://deuxhuithuit.com/)
 - [@e14n](https://github.com/e14n)
 - [@eQualitie](https://github.com/equalitie/) - Digital Security for Civil Society. [Website](https://equalit.ie/).
 - [@HackMcGill](https://github.com/hackmcgill) - [Website](https://hackmcgill.com/).
+- [@Koumbit](https://github.com/Koumbit) - Montréal worker cooperative for websites and free software infrastructure. [Website](https://www.koumbit.org).
+- [@lightspeed](https://github.com/lightspeed) - Montréal commerce platform with public tools and component libraries. [Website](https://www.lightspeedhq.com).
 - [@McGill-AML](https://github.com/McGill-AML) - McGill Aerospace Mechatronics Laboratory.
 - [@McGill-CSB](https://github.com/McGill-CSB) - McGill Computational Structure Biology. [Website](http://csb.cs.mcgill.ca/).
 - [@McGill-Robotics](https://github.com/mcgill-robotics) - Engineering Design Team. [Website](https://mcgillrobotics.com/).
 - [@McGillX](https://github.com/McGillX) - McGillX: MOOC Initiative at McGill University [Website](https://www.mcgill.ca/tls/about/our-projects/mcgillx).
 - [@MeteorMTL](https://github.com/MeteorMTL)
+- [@mila-iqia](https://github.com/mila-iqia) - Quebec Artificial Intelligence Institute. [Website](https://mila.quebec/).
 - [@mldbai](https://github.com/mldbai) [Website](https://mldb.ai/).
+- [@monicahq](https://github.com/monicahq) - Personal relationship manager built in Montréal. [Website](https://www.monicahq.com/).
 - [@mtlpy](https://github.com/mtlpy) [Website](https://montrealpython.org/en/).
+- [@nventive](https://github.com/nventive) - Montréal studio behind Uno Platform and other open source .NET work. [Website](https://www.nventive.com).
 - [@OpenNorth](https://github.com/opennorth/) - Open North creates websites to promote government transparency and public participation. [Website](https://www.opennorth.ca/).
 - [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly).
+- [@pressbooks](https://github.com/pressbooks) - Open source book publishing platform built on WordPress. [Website](https://pressbooks.com/).
 - [@printourhome](https://github.com/PrintOurHome) - Upcoming organisation to design and print real 3D Habitations [Website](http://www.printourhome.com/en/home/).
 - [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
+- [@savoirfairelinux](https://github.com/savoirfairelinux) - Montréal free software consultancy and home of Jami. [Website](https://savoirfairelinux.com).
 - [@SCS-Concordia](https://github.com/SCS-Concordia) - SCS Concordia.
 - [@SerpentAI](https://github.com/SerpentAI) - Python, Machine Learning and Artificial Intelligence => Open Source Libraries.
 - [@Shopify](https://github.com/shopify)
@@ -88,8 +99,34 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@unitoio](https://github.com/unitoio) - Unito synchronizes your GitHub issues with Asana, Wrike, Jira, Trello, etc. Get the best of each app, work seamlessly from your favorite.
 - [@UnoPlatform](https://github.com/unoplatform) - The only platform for building Mobile, Desktop and WebAssembly with C# and XAML from a single codebase. Open source and professionally supported. [Website](https://platform.uno/).
 - [@Unsplash](https://github.com/unsplash) - Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers. [Website](https://unsplash.com/).
+- [@vanilla](https://github.com/vanilla) - Montréal community forum software company. [Website](https://vanillaforums.com).
 - [VarCI](https://github.com/varci)
+- [@VilledeMontreal](https://github.com/VilledeMontreal) - Official City of Montréal open source organization. [Website](https://montreal.ca).
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
+- [@workleap](https://github.com/workleap) - Montréal employee experience company with public .NET libraries. [Website](https://workleap.com).
+
+## Companies
+
+These companies are based in Montréal, or have a strong Montréal engineering presence, and publish open source.
+
+- [AmpMe](https://github.com/AmpMe) - Sync your phone with friends to create the world's most portable sound system. [Website](http://ampme.com/).
+- [Busbud](https://github.com/busbud) - Bus and ground travel marketplace. [Website](https://www.busbud.com/).
+- [Caido](https://github.com/caido) - Web security auditing toolkit built in Montréal. [Website](https://caido.io).
+- [Deux Huit Huit](https://github.com/DeuxHuitHuit) - Interactive design and web development studio. [Website](https://deuxhuithuit.com/).
+- [Lightspeed](https://github.com/lightspeed) - Montréal commerce platform with public tools and component libraries. [Website](https://www.lightspeedhq.com).
+- [Monica](https://github.com/monicahq) - Personal relationship manager built in Montréal. [Website](https://www.monicahq.com/).
+- [nventive](https://github.com/nventive) - Montréal studio behind Uno Platform. [Website](https://www.nventive.com).
+- [plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly).
+- [Pressbooks](https://github.com/pressbooks) - Open source book publishing platform. [Website](https://pressbooks.com/).
+- [Savoir-faire Linux](https://github.com/savoirfairelinux) - Montréal free software consultancy and home of Jami. [Website](https://savoirfairelinux.com).
+- [Shopify](https://github.com/shopify) - Commerce platform cofounded by a Quebecois, with a large Montréal engineering presence. [Website](https://www.shopify.com/).
+- [Subgraph](https://github.com/subgraph) - Subgraph OS: adversary resistant computing platform. [Website](https://subgraph.com/).
+- [Transit](https://github.com/transitapp) - A commuter helping company. [Website](https://transit.app/).
+- [Unito](https://github.com/unitoio) - Synchronizes GitHub issues with Asana, Wrike, Jira, Trello, and more. [Website](https://unito.io/).
+- [Uno Platform](https://github.com/unoplatform) - Build mobile, desktop and WebAssembly apps with C# and XAML. [Website](https://platform.uno/).
+- [Unsplash](https://github.com/unsplash) - Photography, curated. [Website](https://unsplash.com/).
+- [Vanilla Forums](https://github.com/vanilla) - Montréal community forum software company. [Website](https://vanillaforums.com).
+- [Workleap](https://github.com/workleap) - Montréal employee experience company with public .NET libraries. [Website](https://workleap.com).
 
 ## Users with Open Source projects
 
