@@ -63,6 +63,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 ## GitHub Organizations (Companies or Projects)
 
+- [@Abdeltoto](https://github.com/Abdeltoto) - Montréal-based AI architect contributing to open source RAG, agents, and bioinformatics. [Website](https://tamereia.com/).
 - [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website](https://bettermtl.github.io/).
 - [@busbud](https://github.com/busbud) [Website](https://www.busbud.com/).
 - [@caido](https://github.com/caido) - Web security auditing toolkit built in Montréal. [Website](https://caido.io).
